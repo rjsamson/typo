@@ -20,7 +20,7 @@ else
   end
 end
 
-source 'https://rubygems.org'
+source 'http://rubygems.org'
 
 gem 'rails', '~> 3.2.12'
 gem 'require_relative'
